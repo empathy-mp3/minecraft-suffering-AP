@@ -51,7 +51,7 @@
     },
     {
         "name": "Die by Pufferfish",
-        "region": "Far Overworld",
+        "region": "Overworld",
         "category": [
             "enemies"
         ]
@@ -66,7 +66,7 @@
     },
     {
         "name": "Die by Dolphin",
-        "region": "Far Overworld",
+        "region": "Overworld",
         "requires": "(|attack| or (|block_loot| and |crafting| and |mining|)) and |entity_interaction|",
         "category": [
             "enemies"
@@ -74,7 +74,7 @@
     },
     {
         "name": "Die by Drowned",
-        "region": "Far Overworld",
+        "region": "Overworld",
         "category": [
             "enemies"
         ]
@@ -128,7 +128,7 @@
     },
     {
         "name": "Die by Elder Guardian",
-        "region": "Far Overworld",
+        "region": "Overworld",
         "category": [
             "enemies"
         ]
@@ -143,7 +143,7 @@
     },
     {
         "name": "Die by Guardian",
-        "region": "Far Overworld",
+        "region": "Overworld",
         "category": [
             "enemies"
         ]
@@ -276,7 +276,7 @@
         "region": "End",
         "category": [
             "enemies",
-            "post-game"
+            "post-dragon"
         ]
     },
     {
@@ -316,13 +316,6 @@
         "region": "End",
         "category": [
             "enemies"
-        ]
-    },
-    {
-        "name": "Die by Arrow",
-        "region": "Overworld",
-        "category": [
-            "damage_types"
         ]
     },
     {
@@ -565,7 +558,7 @@
         ]
     },
     {
-        "name": "Die by Wither (mob)",
+        "name": "Die by Wither",
         "victory": true,
         "region": "Nether",
         "requires": "|entity_interaction| and |mob_loot| and |mining| and |block_loot|",

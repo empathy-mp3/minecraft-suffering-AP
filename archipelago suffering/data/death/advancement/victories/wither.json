@@ -3,8 +3,8 @@
         "icon": {
             "id": "minecraft:nether_star"
         },
-        "title": "Die By Wither (mob)",
-        "description": "Death by Wither",
+        "title": "Die By Wither",
+        "description": "Specifically, the mob, not the effect.",
         "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,

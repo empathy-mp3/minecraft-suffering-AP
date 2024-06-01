@@ -4,7 +4,7 @@
             "id": "minecraft:dragon_head"
         },
         "title": "Die By Ender Dragon",
-        "description": "Death by Ender Dragon",
+        "description": "",
         "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,

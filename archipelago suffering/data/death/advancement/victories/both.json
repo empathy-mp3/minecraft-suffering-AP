@@ -4,7 +4,7 @@
             "id": "minecraft:beacon"
         },
         "title": "Die By Ender Dragon and Wither",
-        "description": "Death by Ender Dragon and Wither",
+        "description": "",
         "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,
