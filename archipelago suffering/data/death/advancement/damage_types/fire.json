@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:flint_and_steel"
+        },
+        "title": "Die by Fire",
+        "description": "Death by standing in fire, on a campfire, or burning to death while fire runs out.",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:damage_types/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "killing_blow": {
+                    "tags": [
+                        {
+                            "id": "death:fire",
+                            "expected": true
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

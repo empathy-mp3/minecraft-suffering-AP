@@ -1,0 +1,98 @@
+[
+    {
+        "name": "block_loot",
+        "progression": true
+    },
+    {
+        "name": "sneaking",
+        "useful": true
+    },
+    {
+        "name": "mob_loot",
+        "progression": true
+    },
+    {
+        "name": "safe_fall",
+        "progression": true
+    },
+    {
+        "name": "speed",
+        "useful": true
+    },
+    {
+        "name": "entity_interaction",
+        "progression": true
+    },
+    {
+        "name": "armor_toughness",
+        "useful": true
+    },
+    {
+        "name": "portal_speed",
+        "useful": true
+    },
+    {
+        "name": "crafting",
+        "progression": true
+    },
+    {
+        "name": "jump",
+        "progression": true
+    },
+    {
+        "name": "scale",
+        "useful": true
+    },
+    {
+        "name": "attack_speed",
+        "useful": true
+    },
+    {
+        "name": "water_source",
+        "useful": true
+    },
+    {
+        "name": "attack",
+        "progression": true
+    },
+    {
+        "name": "armor",
+        "useful": true
+    },
+    {
+        "name": "health",
+        "useful": true
+    },
+    {
+        "name": "debug_info",
+        "useful": true
+    },
+    {
+        "name": "regen",
+        "useful": true
+    },
+    {
+        "name": "submerged_mining",
+        "useful": true
+    },
+    {
+        "name": "block_interaction",
+        "progression": true
+    },
+    {
+        "name": "block_tick",
+        "useful": true
+    },
+    {
+        "name": "mining",
+        "progression": true
+    },
+    {
+        "name": "stairs",
+        "progression": true
+    },
+    {
+        "name": "burning_time",
+        "useful": true
+    }
+]

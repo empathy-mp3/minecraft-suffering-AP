@@ -1,0 +1,1 @@
+scoreboard players set #sneaking suffering 2

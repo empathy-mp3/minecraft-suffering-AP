@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 45,
+		"description": "datapack for minecraft-suffering-AP"
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": "minecraft",
+				"path": "advancement/.*"
+			}
+		]
+	}
+}

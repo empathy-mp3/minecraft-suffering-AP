@@ -1,0 +1,12 @@
+{
+    "post-dragon": {
+        "yaml_option": [
+            "Post_Dragon_Locations"
+        ]
+    },
+    "grindy": {
+        "yaml_option": [
+            "Grindy_Locations"
+        ]
+    }
+}

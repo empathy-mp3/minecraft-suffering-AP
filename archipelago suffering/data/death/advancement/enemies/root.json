@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:trial_spawner"
+        },
+        "title": "Locations (Enemies)",
+        "description": "Documentation of Locations you could check by dying to specific enemy types.",
+        "background": "minecraft:textures/block/crimson_nylium.png",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

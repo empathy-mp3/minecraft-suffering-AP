@@ -1,0 +1,1 @@
+scoreboard players set #submerged_mining suffering 2

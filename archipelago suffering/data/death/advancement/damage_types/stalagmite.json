@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:pointed_dripstone"
+        },
+        "title": "Die by Stalagmite",
+        "description": "Jumping on a pointed dripstone",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:damage_types/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "killing_blow": {
+                    "tags": [
+                        {
+                            "id": "death:stalagmite",
+                            "expected": true
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

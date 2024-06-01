@@ -1,0 +1,1 @@
+scoreboard players set #block_interaction suffering 2

@@ -1,0 +1,1 @@
+scoreboard players set #entity_interaction suffering 2

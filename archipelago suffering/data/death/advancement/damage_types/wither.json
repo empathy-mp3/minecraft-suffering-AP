@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:wither_skeleton_skull"
+        },
+        "title": "Die by Wither (effect)",
+        "description": "Specifically, the effect, not the boss.",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:damage_types/nether",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "killing_blow": {
+                    "tags": [
+                        {
+                            "id": "death:wither",
+                            "expected": true
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

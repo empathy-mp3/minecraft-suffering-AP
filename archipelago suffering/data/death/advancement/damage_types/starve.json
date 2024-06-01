@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:rotten_flesh"
+        },
+        "title": "Die by Starvation",
+        "description": "You'll have to be on Hard Difficulty for this one. If you can't change your difficulty to Hard, just check it off. It's Sphere 1.",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:damage_types/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "killing_blow": {
+                    "tags": [
+                        {
+                            "id": "death:starve",
+                            "expected": true
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+scoreboard players set #speed suffering 2

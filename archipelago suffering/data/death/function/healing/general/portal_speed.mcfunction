@@ -1,0 +1,1 @@
+gamerule playersNetherPortalDefaultDelay 80

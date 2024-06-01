@@ -1,0 +1,2 @@
+function schedule_heal_self
+function schedule_suffer_self

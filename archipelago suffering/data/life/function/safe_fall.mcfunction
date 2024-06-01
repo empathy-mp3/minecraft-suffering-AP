@@ -1,0 +1,1 @@
+scoreboard players set #safe_fall suffering 2

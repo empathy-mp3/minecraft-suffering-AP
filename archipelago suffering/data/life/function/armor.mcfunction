@@ -1,0 +1,1 @@
+scoreboard players set #armor suffering 2

@@ -1,0 +1,1 @@
+scoreboard players set #jump suffering 2

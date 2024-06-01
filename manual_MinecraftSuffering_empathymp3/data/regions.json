@@ -1,0 +1,24 @@
+{
+    "Overworld": {
+        "connects_to": [
+            "Far Overworld"
+        ],
+        "starting": true,
+        "requires": []
+    },
+    "Far Overworld": {
+        "connects_to": [
+            "Nether"
+        ],
+        "requires": "(|block_interaction| and |crafting| and |stairs| and |mining| and |block_loot|) or (|safe_fall| and |jump|)"
+    },
+    "Nether": {
+        "connects_to": [
+            "End"
+        ],
+        "requires": "|block_interaction| and |crafting| and ((|mining| and |block_loot|) or (|entity_interaction| and (|attack| or |block_loot|) and |mob_loot|))"
+    },
+    "End": {
+        "requires": "|entity_interaction| and |mob_loot| and (|attack| or |block_loot|) and |mining|"
+    }
+}

@@ -1,0 +1,1 @@
+scoreboard players set #attack_speed suffering 2

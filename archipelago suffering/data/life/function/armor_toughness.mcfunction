@@ -1,0 +1,1 @@
+scoreboard players set #armor_toughness suffering 2

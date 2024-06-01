@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_chestplate",
+            "components": {
+                "minecraft:trim": {
+                    "material": "minecraft:amethyst",
+                    "pattern": "minecraft:rib"
+                }
+            }
+        },
+        "title": "armor",
+        "description": "Your armor now actually protects you.",
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:items/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

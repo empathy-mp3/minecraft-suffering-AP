@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_leggings",
+            "components": {
+                "minecraft:trim": {
+                    "material": "minecraft:diamond",
+                    "pattern": "minecraft:rib"
+                }
+            }
+        },
+        "title": "armor_toughness",
+        "description": "Your armor toughness now has an effect.",
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:items/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

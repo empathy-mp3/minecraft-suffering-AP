@@ -1,0 +1,1 @@
+scoreboard players set #scale suffering 2

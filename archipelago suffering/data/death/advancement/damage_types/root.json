@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:recovery_compass"
+        },
+        "title": "Locations (Damage Types)",
+        "description": "Documentation of Locations you could check by dying to specific damage types. Due to the way data packs work, you'll only get advancements for these if a mob was involved. Often, it'll be clear through the death message, though.",
+        "background": "minecraft:textures/block/warped_nylium.png",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

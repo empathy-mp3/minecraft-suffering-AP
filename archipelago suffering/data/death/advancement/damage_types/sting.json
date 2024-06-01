@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:bee_nest"
+        },
+        "title": "Die by Sting",
+        "description": "Specifically, the first initial hit from bees' sting, not the poison",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:damage_types/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "killing_blow": {
+                    "tags": [
+                        {
+                            "id": "death:sting",
+                            "expected": true
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

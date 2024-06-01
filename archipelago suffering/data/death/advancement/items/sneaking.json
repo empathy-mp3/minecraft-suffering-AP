@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:iron_boots",
+            "components": {
+                "minecraft:trim": {
+                    "material": "minecraft:netherite",
+                    "pattern": "minecraft:raiser"
+                }
+            }
+        },
+        "title": "sneaking",
+        "description": "You can now move while sneaking.",
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:items/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

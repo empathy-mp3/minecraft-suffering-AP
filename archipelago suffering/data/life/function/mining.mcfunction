@@ -1,0 +1,1 @@
+scoreboard players set #mining suffering 2

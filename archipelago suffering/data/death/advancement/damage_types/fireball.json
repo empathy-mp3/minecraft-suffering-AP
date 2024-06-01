@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:fire_charge"
+        },
+        "title": "Die by Fireball",
+        "description": "Death by ghast/blaze fireball.",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:damage_types/nether",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "killing_blow": {
+                    "tags": [
+                        {
+                            "id": "death:fireball",
+                            "expected": true
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

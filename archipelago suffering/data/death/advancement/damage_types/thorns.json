@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:guardian_spawn_egg"
+        },
+        "title": "Die by Thorns",
+        "description": "Damage Dealt back to you after attacking guardians. Thorns enchant also works, but it's out of logic.",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:damage_types/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "killing_blow": {
+                    "tags": [
+                        {
+                            "id": "death:thorns",
+                            "expected": true
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

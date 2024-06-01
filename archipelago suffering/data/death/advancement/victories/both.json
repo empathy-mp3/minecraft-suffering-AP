@@ -1,0 +1,40 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:beacon"
+        },
+        "title": "Die By Ender Dragon and Wither",
+        "description": "Death by Ender Dragon and Wither",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "death:victories/root",
+    "criteria": {
+        "dragon": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:ender_dragon"
+                }
+            }
+        },
+        "wither": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:wither"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "dragon"
+        ],
+        [
+            "wither"
+        ]
+    ]
+}
