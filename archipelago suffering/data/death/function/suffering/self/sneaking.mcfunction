@@ -1,3 +1,2 @@
-attribute @s minecraft:player.sneaking base set 0
-scoreboard players set @s sneaking 2
+attribute @s minecraft:player.sneaking_speed base set 0
 tag @s add death.sneaking

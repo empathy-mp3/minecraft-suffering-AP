@@ -1,3 +1,2 @@
-attribute @s minecraft:generic.attack base set 0
-scoreboard players set @s attack 2
+attribute @s minecraft:generic.attack_damage base set 0
 tag @s add death.attack

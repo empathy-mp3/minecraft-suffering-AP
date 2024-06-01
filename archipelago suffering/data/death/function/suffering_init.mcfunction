@@ -1,6 +1,5 @@
 # setting things up so that players who join late may also suffer
 #
-scoreboard objectives add suffering dummy
 scoreboard players set #armor_toughness suffering 1
 scoreboard players set #armor suffering 1
 scoreboard players set #attack_speed suffering 1

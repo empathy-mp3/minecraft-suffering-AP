@@ -18,7 +18,7 @@
                 "killing_blow": {
                     "tags": [
                         {
-                            "id": "death:arrow",
+                            "id": "death:lightning_bolt",
                             "expected": true
                         }
                     ]
