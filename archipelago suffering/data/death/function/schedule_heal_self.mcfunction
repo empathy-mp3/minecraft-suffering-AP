@@ -16,4 +16,3 @@ execute if score #sneaking suffering matches 2 as @s[tag=!life.sneaking] run fun
 execute if score #speed suffering matches 2 as @s[tag=!life.speed] run function death:healing/self/speed
 execute if score #stairs suffering matches 2 as @s[tag=!life.stairs] run function death:healing/self/stairs
 execute if score #submerged_mining suffering matches 2 as @s[tag=!life.submerged_mining] run function death:healing/self/submerged_mining
-execute if score #water_source suffering matches 2 as @s[tag=!life.water_source] run function death:healing/self/water_source

@@ -1,0 +1,1 @@
+effect give @a minecraft:slowness 80 3

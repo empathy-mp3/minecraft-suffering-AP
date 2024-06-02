@@ -365,14 +365,6 @@
         "requires": "|crafting| and |block_loot| and |mining| and |block_interaction|"
     },
     {
-        "name": "Die by Falling Block",
-        "region": "Overworld",
-        "category": [
-            "damage_types"
-        ],
-        "requires": "|block_interaction| and |mining| and |block_loot|"
-    },
-    {
         "name": "Die by Falling Stalactite",
         "region": "Far Overworld",
         "category": [

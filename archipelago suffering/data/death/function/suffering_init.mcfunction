@@ -28,11 +28,11 @@ scoreboard players set #init suffering 1
 #
 # changing gamerules at the beginning
 #
-function suffering/general/block_loot
-function suffering/general/block_tick
-function suffering/general/crafting
-function suffering/general/debug_info
-function suffering/general/mob_loot
-function suffering/general/portal_speed
-function suffering/general/regen
-function suffering/general/water_source
+function death:suffering/general/block_loot
+function death:suffering/general/block_tick
+function death:suffering/general/crafting
+function death:suffering/general/debug_info
+function death:suffering/general/mob_loot
+function death:suffering/general/portal_speed
+function death:suffering/general/regen
+function death:suffering/general/water_source

@@ -4,7 +4,7 @@
             "id": "minecraft:rotten_flesh"
         },
         "title": "Die By Zombie Villager",
-        "description": "Death by Zombie Villager",
+        "description": "",
         "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,

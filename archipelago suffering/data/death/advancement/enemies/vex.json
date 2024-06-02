@@ -4,7 +4,7 @@
             "id": "minecraft:vex_armor_trim_smithing_template"
         },
         "title": "Die By Vex",
-        "description": "Death by Vex",
+        "description": "",
         "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,

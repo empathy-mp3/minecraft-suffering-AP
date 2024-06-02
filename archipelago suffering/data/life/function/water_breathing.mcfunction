@@ -1,0 +1,1 @@
+effect give @a minecraft:water_breathing 60 2

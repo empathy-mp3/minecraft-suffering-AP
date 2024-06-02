@@ -1,0 +1,1 @@
+effect give @a minecraft:oozing 120

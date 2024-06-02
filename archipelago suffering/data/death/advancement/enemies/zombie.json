@@ -4,7 +4,7 @@
             "id": "minecraft:zombie_head"
         },
         "title": "Die By Zombie",
-        "description": "Death by Zombie",
+        "description": "",
         "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,

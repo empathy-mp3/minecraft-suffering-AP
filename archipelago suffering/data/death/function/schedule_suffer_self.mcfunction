@@ -16,4 +16,3 @@ execute if score #sneaking suffering matches 1 as @s[tag=!death.sneaking] run fu
 execute if score #speed suffering matches 1 as @s[tag=!death.speed] run function death:suffering/self/speed
 execute if score #stairs suffering matches 1 as @s[tag=!death.stairs] run function death:suffering/self/stairs
 execute if score #submerged_mining suffering matches 1 as @s[tag=!death.submerged_mining] run function death:suffering/self/submerged_mining
-execute if score #water_source suffering matches 1 as @s[tag=!death.water_source] run function death:suffering/self/water_source

@@ -4,7 +4,7 @@
             "id": "minecraft:zoglin_spawn_egg"
         },
         "title": "Die By Zoglin",
-        "description": "Death by Zoglin",
+        "description": "",
         "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,

@@ -12,11 +12,11 @@
     },
     "parent": "death:enemies/root",
     "criteria": {
-        "requirement": {
+        "llama": {
             "trigger": "minecraft:entity_killed_player",
             "conditions": {
                 "entity": {
-                    "type": "minecraft:llama"
+                    "type": "#death:llama"
                 }
             }
         }

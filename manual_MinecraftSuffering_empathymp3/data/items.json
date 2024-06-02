@@ -1,5 +1,50 @@
 [
     {
+        "name": "levitation",
+        "trap": true,
+        "count": 0
+    },
+    {
+        "name": "brief_invulnerability",
+        "filler": true,
+        "count": 3
+    },
+    {
+        "name": "oozing",
+        "filler": true,
+        "count": 3
+    },
+    {
+        "name": "water_breathing",
+        "filler": true,
+        "count": 10
+    },
+    {
+        "name": "conduit_power",
+        "filler": true,
+        "count": 3
+    },
+    {
+        "name": "fire_resistance",
+        "filler": true,
+        "count": 5
+    },
+    {
+        "name": "slowness",
+        "trap": true,
+        "count": 0
+    },
+    {
+        "name": "blindness",
+        "trap": true,
+        "count": 0
+    },
+    {
+        "name": "hunger",
+        "trap": true,
+        "count": 0
+    },
+    {
         "name": "block_loot",
         "progression": true
     },

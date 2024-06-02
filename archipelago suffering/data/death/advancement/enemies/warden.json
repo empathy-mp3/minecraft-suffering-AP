@@ -4,7 +4,7 @@
             "id": "minecraft:sculk_vein"
         },
         "title": "Die By Warden",
-        "description": "Death by Warden",
+        "description": "",
         "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,

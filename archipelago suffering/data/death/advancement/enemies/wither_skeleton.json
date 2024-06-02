@@ -4,7 +4,7 @@
             "id": "minecraft:wither_skeleton_skull"
         },
         "title": "Die By Wither Skeleton",
-        "description": "Death by Wither Skeleton",
+        "description": "",
         "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,

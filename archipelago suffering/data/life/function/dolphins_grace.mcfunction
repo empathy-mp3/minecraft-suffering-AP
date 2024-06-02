@@ -1,0 +1,1 @@
+effect give @a minecraft:dolphins_grace 60
