@@ -1,1 +1,0 @@
-effect give @a minecraft:blindness 80 3
