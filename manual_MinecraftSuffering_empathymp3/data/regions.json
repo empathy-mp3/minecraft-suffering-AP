@@ -10,7 +10,7 @@
         "connects_to": [
             "Nether"
         ],
-        "requires": "(|block_interaction| and |crafting| and |stairs| and |mining| and |block_loot|) or (|safe_fall| and |jump|)"
+        "requires": "(|block_interaction| and |crafting| and |stairs| and |mining| and |block_loot| and |sneaking|) or (|safe_fall| and |jump|)"
     },
     "Nether": {
         "connects_to": [

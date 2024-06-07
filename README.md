@@ -54,7 +54,7 @@ There are three goals to choose from. Simply die to whichever boss(es) you choos
 
 Make sure a copy of the Manual world is in the lib/world directory of your client-side installation.
 Download Version 1.21 Pre-2 of Minecraft (1.21 will be out in like 2 weeks, and I'll update this then).
-While creating a world, enable the datapack (called "Archipelago Suffering") in the More -> Data Packs tab.
+While creating a world, enable the datapack (called "Archipelago Suffering", from the .zip file) in the More -> Data Packs tab.
 Make sure to enable commands when making the world.
 
 ## Joining a MultiWorld Game

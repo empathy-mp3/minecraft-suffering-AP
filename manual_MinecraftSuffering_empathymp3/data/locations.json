@@ -436,7 +436,8 @@
         "region": "Nether",
         "category": [
             "damage_types"
-        ]
+        ],
+        "requires": "|block_interaction| and |mining| and |block_loot| and |crafting| and |entity_interaction|"
     },
     {
         "name": "Die by Lava",
