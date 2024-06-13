@@ -7,6 +7,7 @@ execute if score #block_interaction suffering matches 2 as @s[tag=!life.block_in
 execute if score #burning_time suffering matches 2 as @s[tag=!life.burning_time] run function death:healing/self/burning_time
 execute if score #crafting suffering matches 2 as @s[tag=!life.crafting] run function death:healing/self/crafting
 execute if score #entity_interaction suffering matches 2 as @s[tag=!life.entity_interaction] run function death:healing/self/entity_interaction
+execute if score #fall_damage_multiplier suffering matches 2 as @s[tag=!life.fall_damage_multiplier] run function death:healing/self/fall_damage_multiplier
 execute if score #health suffering matches 2 as @s[tag=!life.health] run function death:healing/self/health
 execute if score #jump suffering matches 2 as @s[tag=!life.jump] run function death:healing/self/jump
 execute if score #mining suffering matches 2 as @s[tag=!life.mining] run function death:healing/self/mining

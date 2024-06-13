@@ -1,0 +1,1 @@
+scoreboard players set #fall_damage_multiplier suffering 2

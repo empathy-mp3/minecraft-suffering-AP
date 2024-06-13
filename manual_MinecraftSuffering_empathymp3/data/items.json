@@ -50,7 +50,7 @@
     },
     {
         "name": "sneaking",
-        "progression": true
+        "useful": true
     },
     {
         "name": "mob_loot",
@@ -58,6 +58,10 @@
     },
     {
         "name": "safe_fall",
+        "progression": true
+    },
+    {
+        "name": "fall_damage_multiplier",
         "progression": true
     },
     {
@@ -114,7 +118,7 @@
     },
     {
         "name": "regen",
-        "useful": true
+        "progression": true
     },
     {
         "name": "submerged_mining",
@@ -134,7 +138,7 @@
     },
     {
         "name": "stairs",
-        "progression": true
+        "useful": true
     },
     {
         "name": "burning_time",

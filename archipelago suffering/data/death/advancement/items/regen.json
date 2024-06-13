@@ -5,12 +5,12 @@
         },
         "title": "regen",
         "description": "You now regenerate health.",
-        "frame": "goal",
+        "frame": "challenge",
         "show_toast": false,
         "announce_to_chat": true,
         "hidden": false
     },
-    "parent": "death:items/root",
+    "parent": "death:items/zz",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:impossible"

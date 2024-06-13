@@ -1,16 +1,16 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:brick_stairs"
+            "id": "minecraft:wind_charge"
         },
-        "title": "stairs",
-        "description": "You now walk up stairs and slabs.",
-        "frame": "goal",
+        "title": "fall_damage_multiplier",
+        "description": "You no longer die from any amount of fall damage.",
+        "frame": "challenge",
         "show_toast": false,
         "announce_to_chat": true,
         "hidden": false
     },
-    "parent": "death:items/root",
+    "parent": "death:items/zz",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:impossible"

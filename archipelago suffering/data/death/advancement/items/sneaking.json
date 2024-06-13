@@ -11,12 +11,12 @@
         },
         "title": "sneaking",
         "description": "You can now move while sneaking.",
-        "frame": "challenge",
+        "frame": "goal",
         "show_toast": false,
         "announce_to_chat": true,
         "hidden": false
     },
-    "parent": "death:items/zz",
+    "parent": "death:items/root",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:impossible"
