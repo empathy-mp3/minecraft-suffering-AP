@@ -19,7 +19,8 @@ Can you beat Minecraft with the following conditions?
 - Mobs don't drop loot.
 - Portals take a full 10 seconds to go through.
 - You can't regenerate health.
-- Any fall distance kills you instantly.
+- Any fall distance deals fall damage.
+- Any fall damage kills you instantly.
 - You're slightly too large to fit in 2 block tall gaps.
 - You can't move while sneaking.
 - You move slower.
@@ -47,13 +48,13 @@ There are three goals to choose from. Simply die to whichever boss(es) you choos
 
 ## Required Software
 
-- Minecraft Java Edition (Version 1.21 Pre-2) from the [Minecraft Java Edition Store Page](https://www.minecraft.net/en-us/store/minecraft-java-edition)
+- Minecraft Java Edition (Version 1.21) from the [Minecraft Java Edition Store Page](https://www.minecraft.net/en-us/store/minecraft-java-edition)
 - Archipelago from the [Archipelago Releases Page](https://github.com/ArchipelagoMW/Archipelago/releases)
 
 ## Installation Procedures
 
 Make sure a copy of the Manual world is in the lib/world directory of your client-side installation.
-Download Version 1.21 Pre-2 of Minecraft (1.21 will be out in like 2 weeks, and I'll update this then).
+Download Version 1.21 of Minecraft.
 While creating a world, enable the datapack (called "Archipelago Suffering", from the .zip file) in the More -> Data Packs tab.
 Make sure to enable commands when making the world.
 
@@ -71,8 +72,8 @@ In the "Tracker and Locations" tab you'll find buttons corresponding with all th
 
 ## Multiplayer Manual
 
-All you need to do for multiplayer is to host a server with the datapack. (Currently, you need to host one on 1.21 Pre-2, which might be harder, but I'll update it to a stable release when it comes out in 2 weeks.) Make sure to enable commands!
-You can get the 1.21 Pre-2 server .jar [here](https://piston-data.mojang.com/v1/objects/3a8da3a1afcfb09d701fa17e405d09cd0c635748/server.jar)
+All you need to do for multiplayer is to host a server with the datapack. Make sure to enable commands!
+You can get the 1.21 server .jar [here](https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar)
 
 ## Playing the Game
 

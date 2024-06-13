@@ -46,102 +46,177 @@
     },
     {
         "name": "block_loot",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "sneaking",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "mob_loot",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "safe_fall",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "fall_damage_multiplier",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "speed",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "entity_interaction",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "armor_toughness",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "portal_speed",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "crafting",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "jump",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "scale",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "attack_speed",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "water_source",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "attack",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "armor",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "health",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "debug_info",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "regen",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "submerged_mining",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "block_interaction",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "block_tick",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "mining",
-        "progression": true
+        "progression": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "stairs",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     },
     {
         "name": "burning_time",
-        "useful": true
+        "useful": true,
+        "category": [
+            "permanent"
+        ]
     }
 ]
